@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mojtabaesl/mojtabaesl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://raw.githubusercontent.com/mojtabaesl/mojtabaesl/main/assets/header-dark.png#gh-dark-mode-only)
+
+<div align="center" >
+
+## Hi there 👋, I'm mojtaba!
+
+</div>
+
+> I like learning new skills and developing scalable applications. My passion in programming started in 2008, when I attempted to create a 2D game in VB6. I’m the creator of the FullstacksJS open-source community, however In my professional life, I work as a front-end engineer.
