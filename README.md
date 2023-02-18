@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://raw.githubusercontent.com/mojtabaesl/mojtabaesl/main/assets/header-dark.png#gh-dark-mode-only)
+![header](./assets/header-dark.png#gh-dark-mode-only)
 
 <div align="center" >
 
