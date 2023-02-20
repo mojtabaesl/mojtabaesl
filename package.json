@@ -1,0 +1,25 @@
+{
+  "name": "mojtabaesl",
+  "version": "1.0.0",
+  "description": "![header](./assets/header-dark.png#gh-dark-mode-only) ![header](./assets/header-light.png#gh-light-mode-only)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install",
+    "spell-check": "cspell lint '*.md'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojtabaesl/mojtabaesl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojtabaesl/mojtabaesl/issues"
+  },
+  "homepage": "https://github.com/mojtabaesl/mojtabaesl#readme",
+  "devDependencies": {
+    "cspell": "^6.26.3",
+    "husky": "^8.0.0"
+  }
+}
